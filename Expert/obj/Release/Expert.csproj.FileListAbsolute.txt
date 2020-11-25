@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\bin\Release\Expert.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\bin\Release\Expert.exe
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\bin\Release\Expert.pdb
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.Form2.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.Form3.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.Form4.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.Form5.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.exe
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.pdb
+C:\Users\User\documents\visual studio 2017\Projects\Expert\Expert\obj\Release\Expert.csprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\bin\Debug\Expert.exe.config
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\bin\Debug\Expert.exe
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\bin\Debug\Expert.pdb
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.Form1.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.exe
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.pdb
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.Form2.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.Form3.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.Form4.resources
+c:\users\user\documents\visual studio 2017\Projects\Expert\Expert\obj\Debug\Expert.Form5.resources
